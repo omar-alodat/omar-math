@@ -1,0 +1,6 @@
+{
+  "name": "المختبر التفاعلي لاكتشاف المعادلات المثلثية",
+  "description": "درس تفاعلي متقدم للصف العاشر الأساسي لاكتشاف المعادلات المثلثية وحلها عبر المحاكاة والاستقصاء الرياضي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
